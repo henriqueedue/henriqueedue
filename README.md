@@ -17,19 +17,12 @@ Focado em construir sistemas robustos, escaláveis e com foco total na experiên
 - **Banco de Dados:** PostgreSQL, MySQL.
 - **Ferramentas:** Docker, Git/GitHub, Postman.
 
----
-
-### 📈 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueedue&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueedue&layout=compact&langs_count=7&theme=dracula" />
-</p>
 
 ---
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [Seu Link do LinkedIn aqui](https://linkedin.com/in/seu-usuario)
-- **E-mail:** [seuemail@exemplo.com]
+- **LinkedIn:** https://www.linkedin.com/in/henrique-silva-dev/
+- **E-mail:** henriqueedue12@gmail.com
 
 ---
 *"Backend robusto e frontend funcional, focado em UX."*
