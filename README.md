@@ -1,6 +1,6 @@
 # Olá, eu sou o Henrique Silva 👋
 
-### Desenvolvedor Full Stack Junior | Go (Golang) & Java (Spring Boot)
+### Desenvolvedor Backend Junior | Java (Spring Boot) | Go (Golang)
 
 Focado em construir sistemas robustos, escaláveis e de alta performance. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco aplicar as melhores práticas de arquitetura (SOLID, Clean Code) para resolver problemas reais de negócio.
 
