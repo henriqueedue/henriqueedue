@@ -1,28 +1,49 @@
 # Olá, eu sou o Henrique Silva 👋
 
-### Full Stack Developer | Go & Java (Spring Boot)
-Focado em construir sistemas robustos, escaláveis e com foco total na experiência do usuário (UX). Como desenvolvedor de nível Pleno, busco aplicar as melhores práticas de arquitetura e código limpo para resolver problemas complexos de negócio.
+### Desenvolvedor Full Stack Junior | Go (Golang) & Java (Spring Boot)
+
+Focado em construir sistemas robustos, escaláveis e de alta performance. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco aplicar as melhores práticas de arquitetura (SOLID, Clean Code) para resolver problemas reais de negócio.
 
 ---
 
-### 🚀 O que eu faço:
-* **Backend:** Desenvolvimento de APIs REST de alta performance com **Go** e ecossistema **Java (Spring Boot)**.
-* **Arquitetura:** Aplicação de conceitos de Clean Architecture, SOLID e Design Patterns.
-* **Infra & Cloud:** Experiência com Docker, SQL e integrações contínuas.
-* **Frontend & UX:** Criação de interfaces funcionais e intuitivas, unindo performance técnica com usabilidade.
+## 🚀 Projetos de Impacto
 
-### 🛠️ Minha Stack Tecnológica:
-- **Linguagens:** Go (Golang), Java, SQL, JavaScript.
-- **Frameworks:** Spring Boot, Spring Security, Hibernate.
-- **Banco de Dados:** PostgreSQL, MySQL.
-- **Ferramentas:** Docker, Git/GitHub, Postman.
+### **Plataforma de Rastreamento Veicular (Aki Localiza)**
+Desenvolvimento de uma solução completa para monitoramento de frotas em tempo real.
 
+* **Gateway TCP**: Criação de um gateway proprietário em **Go** para comunicação direta e parsing de mensagens brutas de rastreadores (EC33 e TK103B).
+* **Alta Concorrência**: Uso de **Goroutines e Channels** para processar milhares de pacotes de geolocalização simultâneos.
+* **Infraestrutura**: Deploy em nuvem utilizando **AWS (EC2)** com containers **Docker** e proxy reverso **Nginx**.
+
+### **Sistema de Gestão Industrial (Setor Madeireiro)**
+Consultoria e desenvolvimento de uma plataforma para digitalização de inventário.
+
+* **Gestão Real-time**: Dashboard administrativo em **Go** para controle de estoque, vendas e promoções dinâmicas.
+* **Foco em UX**: Interface projetada no **Figma** e otimizada para uso em dispositivos móveis diretamente no pátio da fábrica.
+
+---
+
+## 🛠️ Minha Stack Tecnológica
+
+* **Linguagens**: Go (Golang), Java, JavaScript (Node.js), SQL.
+* **Backend**: Spring Boot, APIs RESTful, GORM, Migrations.
+* **Bancos de Dados**: MySQL, MongoDB.
+* **Ferramentas & Infra**: Docker, AWS (EC2), Nginx, Git Flow, Postman, Maven.
+* **Design/UI**: UX/UI Design (Figma), Adobe Photoshop.
 
 ---
 
-### 📫 Vamos nos conectar?
-- **LinkedIn:** https://www.linkedin.com/in/henrique-silva-dev/
-- **E-mail:** henriqueedue12@gmail.com
+## 📈 Formação & Idiomas
+
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Uninter (Prev. Dez/2026).
+* **Inglês Básico** – New Ubest / Uninter (Em curso).
 
 ---
-*"Backend robusto e frontend funcional, focado em UX."*
+
+## 📫 Vamos nos conectar?
+
+* **LinkedIn**: https://www.linkedin.com/in/henrique-silva-dev/
+* **E-mail**: henriqueedue12@gmail.com
+* **Projeto Online**: https://akiilocaliza.com.br
+
+*"Transformando requisitos complexos em código limpo e funcional."*
