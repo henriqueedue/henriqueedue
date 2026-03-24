@@ -1,6 +1,6 @@
 # Olá, eu sou o Henrique Silva 👋
 
-### Desenvolvedor Backend Junior | Java (Spring Boot) | Go (Golang)
+### Desenvolvedor Backend Júnior | Java (Spring Boot) | Go (Golang) | Python | APIs REST
 
 Focado em construir sistemas robustos, escaláveis e de alta performance. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco aplicar as melhores práticas de arquitetura (SOLID, Clean Code) para resolver problemas reais de negócio.
 
