@@ -25,7 +25,7 @@ Consultoria e desenvolvimento de uma plataforma para digitalização de inventá
 
 ## 🛠️ Minha Stack Tecnológica
 
-* **Linguagens**: Go (Golang), Java, JavaScript (Node.js), SQL.
+* **Linguagens**: Go (Golang), Java, JavaScript (Node.js), Python, SQL.
 * **Backend**: Spring Boot, APIs RESTful, GORM, Migrations.
 * **Bancos de Dados**: MySQL, MongoDB.
 * **Ferramentas & Infra**: Docker, AWS (EC2), Nginx, Git Flow, Postman, Maven.
