@@ -45,5 +45,6 @@ Consultoria e desenvolvimento de uma plataforma para digitalização de inventá
 * **LinkedIn**: https://www.linkedin.com/in/henrique-silva-dev/
 * **E-mail**: henriqueedue12@gmail.com
 * **Projeto Online**: https://akiilocaliza.com.br
+* **Projeto Online**: https://www.madeireirariojordao.com.br/
 
 *"Transformando requisitos complexos em código limpo e funcional."*
